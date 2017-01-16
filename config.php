@@ -8,3 +8,4 @@ if (!$con)
   die('Could not connect: ' . mysql_error());
   }
 $foot="";//页脚版权
+?>
